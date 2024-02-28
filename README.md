@@ -46,7 +46,7 @@ Make sure you have [Docker](https://www.docker.com/products/docker-desktop/) ins
 $ docker compose up
 ```
 
-Check if all is running fine by checking the local playground that should be running under port 3000.
+Check the local playground that should be running under port 3000.
 
 ```bash
 http://localhost:3000/graphql
