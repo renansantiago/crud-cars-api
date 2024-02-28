@@ -5,6 +5,7 @@ CRUD cars API using:
 - [Apollo GraphQL](https://www.apollographql.com/)
 - [Mongoose](https://mongoosejs.com/)
 - [Typescript](https://www.typescriptlang.org/)
+- [Docker](https://www.docker.com/products/docker-desktop/)
 
 ## Installation
 
