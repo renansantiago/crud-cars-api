@@ -2,7 +2,7 @@
 
 CRUD cars API using:
 - [Nest](https://github.com/nestjs/nest)
-- [Apollo GraphQL](https://www.apollographql.com/),
+- [Apollo GraphQL](https://www.apollographql.com/)
 - [Mongoose](https://mongoosejs.com/)
 - [Typescript](https://www.typescriptlang.org/)
 
@@ -47,4 +47,7 @@ $ docker compose up
 ```
 
 Check if all is running fine by checking the local playground that should be running under port 3000.
+
+```bash
 http://localhost:3000/graphql
+```
